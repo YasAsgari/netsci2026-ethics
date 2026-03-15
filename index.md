@@ -12,7 +12,7 @@ sidebar:
 header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.35
-  caption: "NetSci 2026 Satellite · Boston · Sunday, June 1, 2026"
+  caption: "NetSci 2026 Satellite · Boston · Tuesday, June 2, 2026" 
 ---
 
 ## Description {#description}
@@ -22,7 +22,7 @@ Network science studies systems of interconnected entities whose collective beha
 This half-day satellite aims to create space for the Network Science community to engage in an open dialogue about the ethical dimensions of research, teaching, and practice. Through keynote talks, interactive discussions, and community contributions, participants will share experiences, identify challenges, and explore practical approaches to conducting responsible and socially informed network science.
 
 {: .notice--info}
-**Time/Place:** Sunday, June 1, 2026 · Boston, MA · (room TBD)  
+**Time/Place:** Tuesday, June 2, 2026  2:30-6:00 PM· Boston, MA · (room TBD)  
 **Format:** Keynote + Panel + Interactive Breakout Discussions + Lightning Talks
 
 ---
@@ -32,9 +32,9 @@ This half-day satellite aims to create space for the Network Science community t
 | Time | Session |
 |---:|---|
 | 1:30–1:40 | Welcome & Introduction|
-| 1:40–2:10 | Keynote - TBD |
+| 1:40–2:10 | Keynote - Prof. Dr. John Basl|
 | 2:10–2:30 | Interactive Activity #1 |
-| 2:30–3:00 | Keynote - TBD |
+| 2:30–3:00 | Keynote - Dr. Juniper Lovato|
 | 3:00–3:30 | Coffee Break |
 | 3:30–3:45 | Lightning talks |
 | 3:45–4:15 | Interactive Activity #2 |
