@@ -31,15 +31,15 @@ This half-day satellite aims to create space for the Network Science community t
 
 | Time | Session |
 |---:|---|
-| 1:30–1:40 | Welcome & Introduction|
-| 1:40–2:10 | Keynote - Prof. Dr. John Basl|
-| 2:10–2:30 | Interactive Activity #1 |
-| 2:30–3:00 | Keynote - Dr. Juniper Lovato|
-| 3:00–3:30 | Coffee Break |
-| 3:30–3:45 | Lightning talks |
-| 3:45–4:15 | Interactive Activity #2 |
-| 4:15–5:00 | Panel Discussion |
-| 5:00–5:15 | Closing Remarks |
+| 2:30–2:40 | Welcome & Introduction|
+| 2:40–3:10 | Keynote - Prof. Dr. John Basl|
+| 3:10–3:30 | Interactive Activity #1 |
+| 3:30–4:00 | Keynote - Dr. Juniper Lovato|
+| 4:00–4:30 | Coffee Break |
+| 4:30–4:45 | Lightning talks |
+| 4:45–5:15 | Interactive Activity #2 |
+| 5:15–6:00 | Panel Discussion |
+| 6:00–6:15 | Closing Remarks |
 
 ---
 
