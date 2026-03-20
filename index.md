@@ -59,11 +59,11 @@ For questions, please contact the organizers [here](mailto:dies.s@northeastern.c
 ## Speakers {#speakers}
 
 <div class="speaker-card">
-  <img class="speaker-card__photo" src="{{ '/assets/images/people/tbd.jpg' | relative_url }}" alt="TBD headshot">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/John Basl Headshot_edit.jpg' | relative_url }}" alt="TBD headshot">
   <div>
     <h3 class="speaker-card__name">Keynote: TBD</h3>
-    <p class="speaker-card__affil"><em>Affiliation</em></p>
-    <p>Short bio or talk abstract goes here.</p>
+    <p class="speaker-card__affil"><em>Northeastern University</em></p>
+    <p>John Basl is Associate Professor of Philosophy at Northeastern University, the College of Social Sciences and Humanities Dean's Leadership Fellow for AI & Data Ethics, and an Associate Director of the Northeastern Ethics Institute where he leads AI & Data Ethics Initiatives. He works in and teaches AI ethics and moral philosophy. He is ethics co-lead of the National Internet Observatory and co-lead of the AI + Data Ethics Summer Graduate Training Program (AIDE Summer).</p>
   </div>
 </div>
 
