@@ -8,14 +8,14 @@
 .speaker-card {
   display: flex;
   gap: 1.25rem;
-  align-items: flex-start;
+  align-items: center;
   padding: 1rem 0;
   border-bottom: 1px solid rgba(0,0,0,0.08);
 }
 
 .speaker-card__photo {
-  width: 120px;
-  height: 120px;
+  width: 180px;
+  height: 180px;
   border-radius: 12px;
   object-fit: cover;
   flex: 0 0 auto;
@@ -37,8 +37,8 @@
     flex-direction: column;
   }
   .speaker-card__photo {
-    width: 96px;
-    height: 96px;
+    width: 120px;
+    height: 120px;
   }
 }
 
