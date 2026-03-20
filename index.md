@@ -45,7 +45,7 @@ For questions, please contact the organizers [here](mailto:dies.s@northeastern.c
 | Time | Session |
 |---:|---|
 | 2:30–2:40 | Welcome & Introduction|
-| 2:40–3:10 | Keynote - Prof. Dr. John Basl|
+| 2:40–3:10 | Keynote - Dr. John Basl|
 | 3:10–3:30 | Interactive Activity #1 |
 | 3:30–4:00 | Keynote - Dr. Juniper Lovato|
 | 4:00–4:30 | Coffee Break |
@@ -59,7 +59,7 @@ For questions, please contact the organizers [here](mailto:dies.s@northeastern.c
 ## Speakers {#speakers}
 
 <div class="speaker-card">
-  <img class="speaker-card__photo" src="{{ '/assets/images/people/John Basl Headshot_edit.jpg' | relative_url }}" alt="TBD headshot">
+  <img class="speaker-card__photo" src="{{ '/assets/images/people/johnbasl.jpg' | relative_url }}" alt="TBD headshot">
   <div>
     <h3 class="speaker-card__name">Keynote: TBD</h3>
     <p class="speaker-card__affil"><em>Northeastern University</em></p>
